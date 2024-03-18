@@ -1,0 +1,90 @@
+body{
+    font-family: cursive;
+    background: linear-gradient(0deg, rgba(178,205,227,1) 0%, rgba(153,191,191,0.38977597875087533) 100%); 
+}
+
+header{
+    margin: 50px;
+    border-radius: 10px 10px 10px 10px;
+}
+header nav{
+    height: 80px;
+
+}
+header a{
+    font-size: 25px;
+    color: #244a6e;
+    padding: 30px;
+}
+
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    color: #b65b06;
+}
+
+header p{
+    font-size: 20px;
+    color: #111111;
+    text-align: center;
+}
+header img{
+    display: block;
+    margin: auto;   
+}
+#Ingredientes{
+    width: 600px;
+    height: 350px;
+    background: radial-gradient(circle, rgb(112, 214, 184) 0%, rgb(62, 90, 201) 100%); 
+    box-shadow: 20px 20px 20px #244a6e;
+    border-radius: 20px ;
+    margin: 0 auto;
+}
+#Ingredientes h1{
+    font-size: 35px;
+    margin: 30px;
+    color: #071b3a;
+    text-align: center;
+}
+#Ingredientes ul li{
+    margin: 8px;
+}
+
+#Preparacion{
+    width: 1000px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(231,198,113,1) 0%, rgba(255,20,72,1) 100%);     
+    box-shadow: 20px 20px 20px #be5d5d;
+    border-radius: 20px ;
+    margin: 0 auto;
+}
+#Preparacion h1{
+    font-size: 35px;
+    margin: 30px;
+    color: #163141;
+    text-align: center;
+}
+#Preparacion ol li{
+    margin: 15px;
+    font-size: 18px;
+}
+
+footer{
+    background-color: #97b6a5;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px 10px 10px 10px;
+
+}
+footer h4{
+    font-size: 18px;
+    padding: 10px 0 0 100px;
+}
+
+footer p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #432fa2;
+    padding: 0 0 0 200px;
+}

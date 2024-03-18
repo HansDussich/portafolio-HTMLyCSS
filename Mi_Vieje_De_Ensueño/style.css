@@ -1,0 +1,101 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(0deg, rgba(153,215,215,1) 0%, rgba(102,119,120,0.38977597875087533) 100%); }
+.titulo{
+    font-size: 40px;
+    text-align: center; 
+    color: #2a1caf;
+}
+
+
+header h2{
+    text-align: center;
+    font-size: 30px;
+    color: #a71515;
+}
+header p{
+    margin: 10px;
+    font-size: 15px;
+    color: #000000;
+}
+
+header img{
+    display: block;
+    margin: auto;   
+    padding: 20px;
+}
+
+header a{
+    font-size: 18px;
+    color: #000000;
+    margin: 20px;
+}
+
+.destino{
+    height: 120px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: #103124;
+}
+.destino p{
+    font-size: 20px;
+    color: #000000;
+    margin: 20px;
+}
+.actividades h4{
+    font-size: 20px;
+    margin: 30px;
+    color: #1107a5;
+    text-align: center;
+}
+.actividades img {
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: auto;  
+}
+.experiencias h4{
+    font-size: 20px;
+    color: #000000;
+    margin: 20px;
+}
+.experiencias a{
+    font-size: 18px;
+    color: #ff0000;
+    margin: 50px;  
+}
+.experiencias img{
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: 30px;
+}
+.experiencias video{
+    width: 900px;
+    height: 500px;
+    display: block;
+    margin: 30px;
+}
+
+footer{
+    background-color: #97b6a5;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px 10px 10px 10px;
+
+}
+footer h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding: 10px 0 0 100px;
+}
+
+footer p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: #432fa2;
+    padding: 0 0 0 200px;
+}
